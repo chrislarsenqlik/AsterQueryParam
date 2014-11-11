@@ -1,0 +1,102 @@
+﻿.qv-object-AsterQueryParameterization div.qv-object-content-container {
+
+}
+.qv-object-AsterQueryParameterization td, th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-AsterQueryParameterization td.numeric {
+	text-align: right;
+}
+/*.qv-object-AsterQueryParameterization button {
+	width: 60px;
+	position: relative;
+	bottom: 20px;
+	margin-top: 10px;
+}*/
+
+.qv-object-AsterQueryParameterization .parambody {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #b0c4de;
+	padding-top: 10px;
+	padding-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.qv-object-AsterQueryParameterization .notifyclass {
+    -webkit-border-radius: 3px; 
+    -moz-border-radius: 3px; 
+    border-radius: 3px; 
+    outline:0; 
+    width:100%;
+    padding-top:;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+
+.qv-object-AsterQueryParameterization .inputclass {
+    -webkit-border-radius: 3px; 
+    -moz-border-radius: 3px; 
+    border-radius: 3px; 
+    border: 1px solid #848484; 
+    outline:0; 
+    height:20px; 
+    width: 30px; 
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+
+.qv-object-AsterQueryParameterization .myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #d9fbbe;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #d9fbbe;
+	box-shadow:inset 0px 1px 0px 0px #d9fbbe;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b8e356), color-stop(1, #a5cc52));
+	background:-moz-linear-gradient(top, #b8e356 5%, #a5cc52 100%);
+	background:-webkit-linear-gradient(top, #b8e356 5%, #a5cc52 100%);
+	background:-o-linear-gradient(top, #b8e356 5%, #a5cc52 100%);
+	background:-ms-linear-gradient(top, #b8e356 5%, #a5cc52 100%);
+	background:linear-gradient(to bottom, #b8e356 5%, #a5cc52 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b8e356', endColorstr='#a5cc52',GradientType=0);
+	background-color:#b8e356;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #83c41a;
+	margin-bottom:10px;
+	margin-top:5px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #86ae47;
+}
+.qv-object-AsterQueryParameterization .myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #a5cc52), color-stop(1, #b8e356));
+	background:-moz-linear-gradient(top, #a5cc52 5%, #b8e356 100%);
+	background:-webkit-linear-gradient(top, #a5cc52 5%, #b8e356 100%);
+	background:-o-linear-gradient(top, #a5cc52 5%, #b8e356 100%);
+	background:-ms-linear-gradient(top, #a5cc52 5%, #b8e356 100%);
+	background:linear-gradient(to bottom, #a5cc52 5%, #b8e356 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a5cc52', endColorstr='#b8e356',GradientType=0);
+	background-color:#a5cc52;
+}
+.qv-object-AsterQueryParameterization .myButton:active {
+	position:relative;
+	top:1px;
+}
